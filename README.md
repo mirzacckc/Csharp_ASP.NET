@@ -36,3 +36,14 @@ This repository has been created for the notes and codes of BELTEK C# and ASP.NE
 + C#'da farklı sayfaları tek bir içerik sayfasına (default ya da hata sayfasına) yönlendirme
 + C#'da DropdownList kullanımları
 + Proje: Büyükşehir Belediyesi sitesinin başlangıç seviye klonu
+
+6. ders_17012022-ders_19012022: 
+
++ C#'da for döngüsü, if-else yapıları, diziler ve DropDownList kullanımları
++ C#'da PageLoad da kod yazımı
++ Proje: Farklı araçlar ve belirli özelliklere bağlı olarak MTV Ödemesi hesaplaması yapan program
+
+7. ders_26012022: 
+
++ HTML üzerinde ASP.NET nesneleri ile birlikte CSS, Bootstrap ve NavBar (Menu) kullanımı
++ ASP.NET'de TextBox ve Buttonlara CSS özelliği ekleme
