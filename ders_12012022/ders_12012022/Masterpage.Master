@@ -1,0 +1,36 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Masterpage.master.cs" Inherits="ders_12012022.Masterpage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body style="background-color:aquamarine; background-image:url(IMG_161478.jpg)">
+    <form id="form1" runat="server">
+        <div>
+
+            <asp:Button ID="Button1" runat="server" Text="Index" OnClick="Button1_Click" />
+            <asp:Button ID="Button2" runat="server" Text="İletişim" OnClick="Button2_Click" />
+            <asp:Button ID="Button3" runat="server" Text="VucutKitleEndeksi" OnClick="Button3_Click" />
+
+            <br /><br />
+
+            <div style="background-color:rebeccapurple">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+            </div>
+            
+            <br /><br />
+
+            <div style="background-color:black; color:hotpink">
+                 <h1>Sağlık Bakanlığı</h1>
+            </div>
+           
+        </div>
+    </form>
+</body>
+</html>
