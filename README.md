@@ -5,8 +5,13 @@ This repository has been created for the notes and codes of BELTEK C# and ASP.NE
 
 **Ders Konuları**
 
-1. *ders_07012022*
+1. *ders_05012022*
 
-+ ASP.NET'de kullanılan araçlar(TextBox,Label,Button)
-+ HTML'E giriş
++ HTML CSS özelliklerinin kullanımı
++ HTML ve CS (Csharp) dosyaları arasında bağlantının sağlanması, TextBox'lardan veri okunması ve Button kullanımı
+
+2. ders_07012022: 
+
++ ASP.NET'de kullanılan araçlar (Label,TextBox,Button)
++ HTML'e giriş
 + Csharp'da kullanılan değişkenler (integer,string,char,float,double,boolean), if-else döngüsü
