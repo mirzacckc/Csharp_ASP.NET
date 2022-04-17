@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="ders_14012022.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body style="background-image:url(radyo-tema-arkaplan-nndjzi.jpg); color:azure">
+    <form id="form1" runat="server">
+        <div>
+
+            <img src="ABB_banner_2019-2.jpg" />
+            <br />
+            <asp:Menu ID="Menu1" runat="server" Orientation="Horizontal" ForeColor="White" OnMenuItemClick="Menu1_MenuItemClick">
+                <Items>
+                    <asp:MenuItem Text="Sitem" Value="siteadi"></asp:MenuItem>
+                    <asp:MenuItem Text="Anasayfa" Value="anasayfa">
+                         <asp:MenuItem Text="Biz Kimiz?" Value="bizkimiz"></asp:MenuItem>
+                        <asp:MenuItem Text="Fotograf" Value="foto"></asp:MenuItem>
+                    </asp:MenuItem>
+                    <asp:MenuItem Text="Hakkımızda" Value="hakkimizda">
+                        <asp:MenuItem Text="Vizyonumuz" Value="vizyonumuz"></asp:MenuItem>
+                        <asp:MenuItem Text="Misyonumuz" Value="misyonumuz"></asp:MenuItem>
+                    </asp:MenuItem>
+                    <asp:MenuItem Text="İletişim" Value="iletişim">
+                        <asp:MenuItem Text="Başkana Mesaj" Value="mesaj"></asp:MenuItem>
+                        <asp:MenuItem Text="Adresimiz" Value="adresimiz"></asp:MenuItem>
+                    </asp:MenuItem>                     
+                </Items>
+            </asp:Menu>
+
+            <div>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+           
+        </div>
+    </form>
+</body>
+</html>
