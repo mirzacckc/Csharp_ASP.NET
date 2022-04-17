@@ -47,3 +47,10 @@ This repository has been created for the notes and codes of BELTEK C# and ASP.NE
 
 + HTML üzerinde ASP.NET nesneleri ile birlikte CSS, Bootstrap ve NavBar (Menu) kullanımı
 + ASP.NET'de TextBox ve Buttonlara CSS özelliği ekleme
+
+9. ders_28012022: 
+
++ HTML de Bootstrap üzerinden class,container,div,column,row,Navbar,Slider,Card,Accordion öğeleri kullanımı
++ Session yapıların ana mantığı
++ ASP.NET'de TextBox ve Buttonlara CSS özelliği ekleme
+Proje: Bir pizza sipariş sitesinin anasayfa,kampanyalar gibi farklı sayfaları oluşturulup pizza detayı, boyutu, hamuru, malzemesi,ekstra malzemesi gibi özellikleri seçilenmesini sağlayan program
