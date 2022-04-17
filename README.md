@@ -15,3 +15,7 @@ This repository has been created for the notes and codes of BELTEK C# and ASP.NE
 + ASP.NET'de kullanılan araçlar (Label,TextBox,Button)
 + HTML'e giriş
 + Csharp'da kullanılan değişkenler (integer,string,char,float,double,boolean), if-else döngüsü
+
+2. ders_10012022: 
+
++ Csharp'da if-else döngülerinin TextBox'larla bağlantılı şekilde çalışması ve ekrana sonuç yazdırılması
