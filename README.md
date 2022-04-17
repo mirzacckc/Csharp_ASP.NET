@@ -30,3 +30,9 @@ This repository has been created for the notes and codes of BELTEK C# and ASP.NE
 + C#'da MasterPage, içerik sayfası ve ContentPlaceHolder kullanımı
 + C#'ta arkaplana fotoğraf ekleme ve birkaç fraklı sayfaya buttonlar aracılığı ile yönlendirme
 + **Proje:** Boy ve kilo verilerini kullanıcıdan alınarak Vücut Kitle Endeksini hesaplayarak sonucu ekrana yazdıran program 
+
+5. ders_14012022: 
+
++ C#'da farklı sayfaları tek bir içerik sayfasına (default ya da hata sayfasına) yönlendirme
++ C#'da DropdownList kullanımları
++ Proje: Büyükşehir Belediyesi sitesinin başlangıç seviye klonu
