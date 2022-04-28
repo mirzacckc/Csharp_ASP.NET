@@ -35,13 +35,13 @@ This repository has been created for the notes and codes of BELTEK C# and ASP.NE
 
 + C#'da farklı sayfaları tek bir içerik sayfasına (default ya da hata sayfasına) yönlendirme
 + C#'da DropdownList kullanımları
-+ Proje: Büyükşehir Belediyesi sitesinin başlangıç seviye klonu
++ **Proje:** Büyükşehir Belediyesi sitesinin başlangıç seviye klonu
 
 7. ders_17012022 ve ders_19012022: 
 
 + C#'da for döngüsü, if-else yapıları, diziler ve DropDownList kullanımları
 + C#'da PageLoad da kod yazımı
-+ Proje: Farklı araçlar ve belirli özelliklere bağlı olarak MTV Ödemesi hesaplaması yapan program
++ **Proje:** Farklı araçlar ve belirli özelliklere bağlı olarak MTV Ödemesi hesaplaması yapan program
 
 8. ders_26012022: 
 
@@ -53,4 +53,8 @@ This repository has been created for the notes and codes of BELTEK C# and ASP.NE
 + HTML de Bootstrap üzerinden class,container,div,column,row,Navbar,Slider,Card,Accordion öğeleri kullanımı
 + Session yapıların ana mantığı
 + ASP.NET'de TextBox ve Buttonlara CSS özelliği ekleme
-Proje: Bir pizza sipariş sitesinin anasayfa,kampanyalar gibi farklı sayfaları oluşturulup pizza detayı, boyutu, hamuru, malzemesi,ekstra malzemesi gibi özellikleri seçilenmesini sağlayan program
++ **Proje:** Bir pizza sipariş sitesinin anasayfa,kampanyalar gibi farklı sayfaları oluşturulup pizza detayı, boyutu, hamuru, malzemesi,ekstra malzemesi gibi özellikleri seçilenmesini sağlayan program
+
+10. *ders_16032022:* 
+
++ **Proje:** Basit araç kiralama sitesi kopyası (Belirli bir seviyeye kadar getirilen proje yapım işlemleri hala devam etmektedir.)
